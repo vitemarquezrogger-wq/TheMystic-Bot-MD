@@ -4,7 +4,7 @@ import {fileURLToPath} from 'url';
 import fs from 'fs'; 
 import moment from 'moment-timezone';
 
-global.botnumber = ""
+global.botnumber = "51902007388"
 global.confirmCode = ""
 global.authFile = `MysticSession`;
 
@@ -16,15 +16,10 @@ global.isBaileysFail = false;
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['5219996125657', '👑 Propietario 👑', true],
-  ['5492916450307'],
-  ['5493794297363'],
-  ['59169082575'],
-  ['595972184435'],
-  ['5215533827255']
+  ['51902007388', '👑 Propietario 👑', true],
 ];
 
-global.suittag = ['5219993404349'];
+global.suittag = ["51902007388"];
 global.prems = [];
 
 // Base Rest Api
